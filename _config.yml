@@ -1,0 +1,11 @@
+# Site settings
+title: Jackson Geller
+email: jacksongeller@gmail.com
+description: My personal blog, site, and projects
+baseurl: ""
+url: "http://jaxgeller.com"
+twitter_username: jaxgeller
+github_username:  jaxgeller
+
+# Build settings
+markdown: kramdown
