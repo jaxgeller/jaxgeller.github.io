@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+</div>
+
+<main class="post-content">
+</main>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script>
+  var URL = "https://api.github.com/users/jaxgeller/gists";
+  var container = document.querySelector('.post-content');
+
+  $.get(URL, function(r) {
+    r.forEach(function(gist){
+      $.getJSON("https://gist.github.com/jaxgeller/"+gist.id+".json?callback=?", function(data) {
+        var snippet = document.createElement('div');
+          snippet.classList.add('snippet');
+
+        var title = document.createElement('h3');
+          title.textContent = gist.description;
+
+        var content = document.createElement('div');
+          content.innerHTML = data.div
+
+        var sheet = document.createElement('link');
+          sheet.href= data.stylesheet;
+          sheet.rel = "stylesheet";
+
+        snippet.appendChild(title);
+        snippet.appendChild(sheet);
+        snippet.appendChild(content);
+        container.appendChild(snippet)
+      });
+    });
+  });
+</script>
