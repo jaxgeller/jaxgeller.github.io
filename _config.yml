@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://jaxgeller.com"
 twitter_username: jaxgeller
 github_username:  jaxgeller
+github: https://github.com/jaxgeller/jaxgeller.github.io
 
 # Build settings
 markdown: kramdown
