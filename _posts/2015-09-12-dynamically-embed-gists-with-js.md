@@ -3,8 +3,6 @@ layout: post
 title: Dynamically Embed Gists with JS
 ---
 
-# Dynamically Embed Gists with JS
-
 I use github gists a good amount, they are great for storing quick snippets of things you use a lot. For example, I set up S3 static websites quite a bit, but find it hard to remember all of the different policies like so
 
 {% highlight javascript %}
