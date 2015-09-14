@@ -11,7 +11,7 @@ I'm Jackson and I'm a developer from DC. I like developing websites, everything 
 
 ## Rankings
 
-I thought I have a place on my site where I rank things I like. 
+I thought I have a place on my site where I rank things I like.
 
 The reason behind this is simple, it's nice to have a this as a reference on demand, and it will give visitors a good idea of what I'm into.
 
@@ -27,7 +27,7 @@ The reason behind this is simple, it's nice to have a this as a reference on dem
 * Commit This to Memory - Motion City Soundtrack
 * Butter - Hudson Mohawke
 * Fucked Up Friends - Tobacco
-* Weezer (Blue Album) - Weezer
+* Lonerism - Tame Impala
 
 #### Movies (no order)
 * Lord of the Rings Trilogy
