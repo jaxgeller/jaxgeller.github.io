@@ -5,10 +5,10 @@ permalink: /projects/
 ---
 
 # Open Source
-* http://forthebadge.com
-* http://isogrammer.com
-* https://github.com/jaxgeller/libmarkov
+* [For the Badge](http://forthebadge.com)
+* [isogrammer](http://isogrammer.com)
+* [Libmarkov](https://github.com/jaxgeller/libmarkov)
 
 # Work
-* http://braveux.com/
-* http://compass.is/
+* [Brave UX](http://braveux.com/)
+* [Compass](http://compass.is/)
