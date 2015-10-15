@@ -6,8 +6,9 @@ permalink: /projects/
 
 # Open Source
 * [For the Badge](http://forthebadge.com)
-* [isogrammer](http://isogrammer.com)
+* [isogrammer](https://isogrammer.com)
 * [Libmarkov](https://github.com/jaxgeller/libmarkov)
+* [pantschanger](https://pantschanger.com)
 
 # Work
 * [Brave UX](http://braveux.com/)
