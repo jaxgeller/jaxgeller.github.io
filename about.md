@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## About
-
 I'm Jackson and I'm a developer from DC. I like developing websites, everything from the front to the back. I'm mostly interested in high performant web applications. Keep it 60fps.
 
 
