@@ -8,7 +8,7 @@ permalink: /work/
 * [For the Badge](http://forthebadge.com/)
 * [isogrammer](https://isogrammer.com/)
 * [Libmarkov](https://github.com/jaxgeller/libmarkov/)
-* [counter.js](https://jaxgeller.com/projects/counter.js)
+* [counter.js](https://jaxgeller.com/projects/counter.js/)
 * [pantschanger](https://pantschanger.com/)
 * [node-weatherunderground](https://github.com/jaxgeller/node-weatherunderground/)
 * [node wmata api's](https://github.com/jaxgeller?tab=repositories/)
