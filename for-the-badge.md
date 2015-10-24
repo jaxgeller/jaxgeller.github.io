@@ -6,14 +6,10 @@ permalink: /for-the-badge/
 
 #A satirical take on Github readme badges.
 
-It all started with my obsession with the words [![Build Status](https://travis-ci.org/rails/rails.svg?branch=master)](https://travis-ci.org/rails/rails)
+It all started with my obsession with the words [![Build Status](https://travis-ci.org/rails/rails.svg?branch=master)](https://travis-ci.org/rails/rails) We sought out to create a site with made up badges to spice up github readmes.
+
+I co-developed the front-end in Jade and Sass using gulp as our task runner. I also took care of all of the deploying to AWS with Nginx as the server.
 
 You can check it out [here.](http://forthebadge.com/)
 
 <img src="/assets/work/for-the-badge.png" alt="">
-
-I was lucky enough to work on this as a side project while at Brave UX with the talented individuals [Mike](https://twitter.com/callmecavs) and [Chris](https://twitter.com/cp_allen).
-
-I codeveloped the front-end in jade and sass, and took care of all of the deploying to AWS with nginx as the server.
-
-<img src="/assets/work/for-the-badge-search.png" alt="">
