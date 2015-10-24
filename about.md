@@ -34,3 +34,9 @@ In the back-end I'm familiar with
 + Nginx
 + AWS/ Digitalocean
 + Debian
+
+And I like playing around with
+
++ Rust
++ GO
++ CoreOS
