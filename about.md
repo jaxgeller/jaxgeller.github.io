@@ -4,49 +4,33 @@ title: About
 permalink: /about/
 ---
 
-I'm Jackson and I'm a developer from DC. I like developing websites, everything from the front to the back. I'm mostly interested in high performant web applications. Keep it 60fps.
+I'm Jackson and I'm a developer from DC. I love developing webapps, everything from the front to the back. I'm mostly interested in highly performant web applications on the front-end. _Keep it 16.666666667._
+
+I have a need for speed; I spend a good portion of my days in devtool timelines optimizing every piece of code I can.  If im not doing that, I'm probably checking out Github Trending and HN.
 
 
-## Rankings
 
-I thought I have a place on my site where I rank things I like.
+<br>
 
-The reason behind this is simple, it's nice to have a this as a reference on demand, and it will give visitors a good idea of what I'm into.
+When I'm developing for the front-end I like to use the following tooling
 
-#### Albums (no order)
++ Gulp
++ Sass/postcss
++ Babel
++ Browserify
++ Browsersync
 
-* Pinkerton - Weezer
-* Entroducing - DJ Shadow
-* II - Bad Books
-* Bubblegum - Kevin Devine and the Goddamn Band
-* Californication - Red Hot Chili Peppers
-* Play - Moby
-* Tourist History - Two Door Cinema Club
-* Commit This to Memory - Motion City Soundtrack
-* Butter - Hudson Mohawke
-* Fucked Up Friends - Tobacco
-* Lonerism - Tame Impala
+And these frameworks
 
-#### Movies (no order)
-* Lord of the Rings Trilogy
-* Fargo
-* No Country for Old Men
-* The Shining
-* Pulp Fiction
-* Goodfellas
-* The Other Guys
-* Fight Club
-* V for Vendetta
-* Wet Hot American Summer
++ Ember.js
++ React.js
++ Vanilla js
 
-#### TV Shows (no order)
-* Arrested Development
-* Breaking Bad
-* Dexter
-* The Office
-* The Wire
-* It's Always Sunny in Philadelphia
-* True Detective
-* Portlandia
-* Fargo
-* Twin Peaks
+In the back-end I'm familiar with
+
++ Ruby on Rails
++ Node.js
++ docker
++ Nginx
++ AWS/ Digitalocean
++ Debian
