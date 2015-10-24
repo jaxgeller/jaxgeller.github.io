@@ -10,6 +10,8 @@ It all started with my obsession with the words [![Build Status](https://travis-
 
 I co-developed the front-end in Jade and Sass using gulp as our task runner. I also took care of all of the deploying to AWS with Nginx as the server.
 
-You can check it out [here.](http://forthebadge.com/)
+[You can check it out here.](http://forthebadge.com/)
 
-<img src="/assets/work/for-the-badge.png" alt="">
+<a href="http://forthebadge.com">
+  <img src="/assets/work/for-the-badge.png">
+</a>
