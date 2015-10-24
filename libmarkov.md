@@ -20,7 +20,7 @@ I think the best way to tell the story is by starting at the end, briefly, then 
 
 Current Implementations
 
-+ Javascript (node + clientside)
++ Javascript (node + client ES6)
 + Ruby
 + Golang
 + Rust
