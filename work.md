@@ -11,6 +11,7 @@ permalink: /work/
 
 * [isogrammer](https://isogrammer.com/)
 * [counter.js](https://jaxgeller.com/projects/counter.js/)
+* [splitfix.js](https://jaxgeller.com/projects/splitfix.js/)
 * [pantschanger](https://pantschanger.com/)
 * [grandy](https://grandy.io/)
 * [node-weatherunderground](https://github.com/jaxgeller/node-weatherunderground/)
