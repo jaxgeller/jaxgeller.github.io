@@ -5,6 +5,8 @@ permalink: /work/
 ---
 
 * [Compass](/compass/) -- Realtime dashboard of everything you need for a commute
+* [Npm-Stats](https://github.com/jaxgeller/npm-stats) -- Keeps track of npm installs
+* [Type it Out](https://chrome.google.com/webstore/detail/type-it-out/cakjfpgihbciegpnmholbaafghdbngjp) -- Chrome Extension that makes you type things out
 * [Identity Automation](/identity-automation/) -- Ember.js mobile web app
 * [For the Badge](/for-the-badge/) -- Satirical take on Github readme badges
 * [Libmarkov](/libmarkov/) -- A library of sentence generators in different languages
