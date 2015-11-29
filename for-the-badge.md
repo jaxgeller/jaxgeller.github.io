@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: For the Badge
 permalink: /for-the-badge/
 ---

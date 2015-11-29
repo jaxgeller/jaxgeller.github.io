@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Counter.js
 permalink: /projects/counter.js/
 ---

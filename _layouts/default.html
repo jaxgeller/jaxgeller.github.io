@@ -1,20 +1,54 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{%include head.html %}
 
-  <body>
+<body id="top">
 
-    {% include header.html %}
+  <header id="header">
+    <a href="/" class="image avatar"><img src="http://gravatar.com/avatar/4f36ec2e5d3a13766e61cf3d491c19a0?s=400" alt="" /></a>
+    <h1>{{ site.description }}</h1>
+  </header>
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+  {{ content }}
 
-    {% include footer.html %}
+  <!-- Footer -->
+  <footer id="footer">
+    <ul class="icons">
 
-  </body>
+      <li>
+        <a href="https://github.com/{{ site.github_username }}" class="icon fa-github">
+          <span class="label">GitHub</span>
+        </a>
+      </li>
 
+      <li>
+        <a href="https://twitter.com/{{ site.twitter_username }}" class="icon fa-twitter">
+          <span class="label">Twitter</span>
+        </a>
+      </li>
+
+      <li>
+        <a href="mailto:{{ site.email }}" class="icon fa-envelope-o">
+          <span class="label">Email</span>
+        </a>
+      </li>
+    </ul>
+    <ul class="copyright">
+      <li>&copy; {{site.time | date: '%y'}} Jackson Geller</li>
+      <li>Source: <a href="https://github.com/jaxgeller/jaxgeller.github.io">here</a></li>
+    </ul>
+  </footer>
+
+  <script>
+    (function(j,a,x,g,e,l,r){j['GoogleAnalyticsObject']=e;j[e]=j[e]||function(){
+      (j[e].q=j[e].q||[]).push(arguments)},j[e].l=1*new Date();l=a.createElement(x),
+      r=a.getElementsByTagName(x)[0];l.async=1;l.src=g;r.parentNode.insertBefore(l,r)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-58998905-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+</body>
 </html>

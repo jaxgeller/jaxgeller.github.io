@@ -2,20 +2,36 @@
 layout: default
 ---
 
-<div class="home">
+<div id="main">
+  <header class="major">
+    <h2>About</h2>
+    <p>
+      I’m Jackson and I’m a developer from DC. I love developing webapps, everything from the front to the back. I’m mostly interested in highly performant web applications on the front-end. Keep it 16.666666667. Check out <a href="/work">my work.</a>
+    </p>
 
-  <h1 class="page-heading">Posts</h1>
+    <p>I'm currently looking for work, let's <a href="mailto:jacksongeller@gmail.com">chat.</a></p>
+  </header>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <section>
+    <h2>Blog</h2>
+    <div class="row">
+      {% for post in site.posts %}
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+      <article class="{% cycle '6u', '6u$' %} 12u(small)">
+        <header>
+          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        </header>
+        <section>
+          {{ post.excerpt }}
+        </section>
+        <footer>
+          <ul class="actions">
+            <li><a href="{{ post.url }}" class="button">Read More</a></li>
+          </ul>
+        </footer>
+      </article>
 
+      {% endfor %}
+    </div>
+  </section>
 </div>

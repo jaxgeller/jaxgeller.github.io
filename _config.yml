@@ -1,11 +1,13 @@
-# Site settings
 title: Jackson Geller
-email: jacksongeller@gmail.com
-description: My personal blog, site, snips, and projects
-# url: "http://jaxgeller.com"
-twitter_username: jaxgeller
-github_username:  jaxgeller
-github: https://github.com/jaxgeller/jaxgeller.github.io
 
-# Build settings
+description: > #
+  <strong>I'm Jackson Geller</strong>, <br/> developer for the web.
+        <br />
+baseurl: ""
+url: "https://jaxgeller.com"
+
+email: jacksongeller@gmail.com
+twitter_username: jaxgeller
+github_username: jaxgeller
+
 markdown: kramdown

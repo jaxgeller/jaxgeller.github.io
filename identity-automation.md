@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Identity Automation
 permalink: /identity-automation/
 ---
