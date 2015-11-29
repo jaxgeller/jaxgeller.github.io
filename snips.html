@@ -4,6 +4,20 @@ title: Snips
 permalink: /snips/
 ---
 
+<div id="main">
+  <article>
+    <header class="major">
+      <h2 class="post-title">{{ page.title }}</h2>
+      <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    </header>
+    <section class="post-content">
+      {{ content }}
+    </section>
+  </article>
+</div>
+
+
+
 <script>
   var URL = "https://api.github.com/users/jaxgeller/gists";
   var container = document.querySelector('.post-content');
