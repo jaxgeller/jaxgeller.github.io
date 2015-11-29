@@ -3,9 +3,7 @@ layout: post
 title: Simple Way to get Around CORS
 ---
 
-### The problem
-
-When developing for the web, you've probably seen this before when you interact with external api's.
+CORS gets in the way for many web developers when using AJAX requests. This post details how to get around it.
 
 ![My helpful screenshot]({{ site.url }}/assets/2015/09/14/cors-error.png)
 
@@ -48,4 +46,3 @@ $ docker run -d -p 80:80 -v $(pwd)/conf:/etc/nginx/conf.d:ro nginx
 Verify it works
 
 ![My helpful screenshot]({{ site.url }}/assets/2015/09/14/cors-working.png)
-
