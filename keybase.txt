@@ -1,0 +1,73 @@
+---
+permalink: /keybase.txt/
+---
+
+==================================================================
+https://keybase.io/jaxgeller
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jaxgeller.com
+  * I am jaxgeller (https://keybase.io/jaxgeller) on keybase.
+  * I have a public key with fingerprint A294 1661 E996 9A12 B495  0755 882F 9C7B 77F9 0761
+
+To do so, I am signing this object:
+
+{
+    body: {
+        key: {
+            eldest_kid: 01015e2f6fa2a7d7d8fdfadc81eae9f45cdc903d33798ca9868c8d7315af802498840a,
+            fingerprint: a2941661e9969a12b4950755882f9c7b77f90761,
+            host: keybase.io,
+            key_id: 882f9c7b77f90761,
+            kid: 01015e2f6fa2a7d7d8fdfadc81eae9f45cdc903d33798ca9868c8d7315af802498840a,
+            uid: 10535b556a055ea6e1fc272cd7e67900,
+            username: jaxgeller
+        },
+        service: {
+            hostname: jaxgeller.com,
+            protocol: https:
+        },
+        type: web_service_binding,
+        version: 1
+    },
+    ctime: 1449540650,
+    expire_in: 157680000,
+    prev: 1fd8fe6a23c95b689d6d8d2f3252ab08dd986c7008a59d4f4fec750f8a1e5f76,
+    seqno: 5,
+    tag: signature
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbbExBGD5tFS1FWiXSCDnSFtnWnLNnzsysRlxCiGpCpJG0rDlnZran
+u92zds/2EhqKB4SQuMSlokIavDSRlD6IeyKIirLikiAh6vIgEVVPYk7Di3g0L5P5
+5/u+//u//LcLcpT8rNLo61X1XlVt1v0bx9JKraiau1m1XNamhjarUT5y8RjjKS8c
+dZgaUoEGNMh1YQqqU8QQw4IJymysccqJMKDNbAKCLBhEBNuUYBPbmKGgBqnAQDcI
+xgagakAVTjzCk4mkE/ekLNWJoZmmxgkxCdV0yyAQIAgx1gWxkYWQIACZmiQ2uCmf
+Ic1ZNMUrHVfW5CM8Yu8f+P/sOz0ipwEYhBaEJgUQcmpyTdg60m2GuIkIAD4wxZNx
+2sQlupG2RngsxpNqe0CV5WbH5n6y/ih/Qyptt0myE0nXc203Jr8aPC+RCvlUry3h
+Y1u4Ff6tEracOJNJSkYzT6YcN66GNIm0PceX1QyZowFMCAIqb004SR52fAREJgby
++H14sz+PkIFwk+pBm0DLxISZDDNdBHWoUwtgxmQiNgIAU0iYIQzBbQSBwFTjUCBT
+9efaFHfVEJQ2aURKppxInHrpJFfbb16vH6Vk5Sujc7P9DVPy8yb92bvC02OV3RsC
+w8fmx4tzya1U/4kl+z8UDWV/P7WkC0cOLhpzYMXWI/fwguGi1ctmfkGFT97Med9T
+6mxs6jy9YXu1aFjzsqs/XLj+6PhnTXidXfbi8dcJLVPrP2UPKrPUhZduFd8Z1Op6
+nm9KeLXlY7ofrnzVmM4c3jJPz9l+vGKHd2VgfcmUaMWZhRd2lOUOlUb52d68zinK
+4MC09qHdzp6O4ZKun0u/FZyffm3X3aespqQ21pnAay8+yOw9GymK/Tizqm9cdc3h
+y8qMz30TWfntbYl3k/tO7Ox4+7rg2aNRgYwbXX6kaiDUGuoQ86/hq1fPffxWnknf
+mZrbu2xxndUIu0/OrjtUuu/DL/QsNrs=
+=zlqh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jaxgeller
+
+==================================================================
+
