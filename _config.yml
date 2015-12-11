@@ -11,3 +11,6 @@ twitter_username: jaxgeller
 github_username: jaxgeller
 
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
