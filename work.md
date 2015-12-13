@@ -5,6 +5,7 @@ permalink: /work/
 ---
 
 * [HS BBall Trajectory](/hs-bball-trajectory/) -- Data Viz on the trajectory of HS bball recruits
+* [Open Ipsum](https://openipsum.com) -- Create and share lorem ipsum text generators. Like github for text generators.
 * [Compass](/compass/) -- Realtime dashboard of everything you need for a commute
 * [Npm-Stats](https://github.com/jaxgeller/npm-stats) -- Keeps track of npm installs
 * [Type it Out](https://chrome.google.com/webstore/detail/type-it-out/cakjfpgihbciegpnmholbaafghdbngjp) -- Chrome Extension that makes you type things out
